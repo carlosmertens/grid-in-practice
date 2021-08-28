@@ -20,6 +20,8 @@ html {
   /* grid-column-start: col-1-start;
   grid-column-end: col-2-end; */
   grid-area: header;
+  text-align: center;
+  vertical-align: center;
 }
 
 .el2 {
